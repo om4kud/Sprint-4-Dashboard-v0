@@ -1,6 +1,6 @@
 # Omisha Mondal om4kud
 # import libraries
-from dash import Dash, html, dcc, dbc 
+from dash import Dash, html, dcc
 import pandas as pd
 import plotly.express as px
 from dash.dependencies import Input, Output
@@ -10,8 +10,13 @@ from dash.dependencies import Input, Output
 data = pd.read_csv('data.csv')
 
 # add Quartz background theme layout
-app = Dash(__name__, external_stylesheets=[dbc.themes.QUARTZ])
+app = Dash(__name__)
 server = app.server
+
+# Add QUARTZ using the url
+app.css.append_css({
+    "external_url": "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/quartz/bootstrap.min.css"
+})
 
 # Make the layout
 app.layout = dbc.Container([
