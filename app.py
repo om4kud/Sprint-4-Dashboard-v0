@@ -19,46 +19,38 @@ app.css.append_css({
 })
 
 # Make the layout
-app.layout = dcc.Container([
+app.layout = html.Div([
     html.H1("Day Trader Graphs", style={'textAlign': 'center', 'marginBottom': '20px'}),  # Title for entire page
-    dcc.Row([
-        dcc.Col(
-            dcc.RadioItems(
-                id='radio-group-1',  # Radio buttons for Price and Change
-                options=[
-                    {'label': 'Price', 'value': 'Price'},
-                    {'label': 'Change', 'value': 'Change'}
-                ],
-                value='Price',
-                labelStyle={'display': 'inline-block', 'margin-right': '15px'}  # Increase space between radio buttons
-            ),
-            width=5,  # Center the radio buttons
-            align='center'
+    
+    html.Div([
+        dcc.RadioItems(
+            id='radio-group-1',  # Radio buttons for Price and Change
+            options=[
+                {'label': 'Price', 'value': 'Price'},
+                {'label': 'Change', 'value': 'Change'}
+            ],
+            value='Price',
+            labelStyle={'display': 'inline-block', 'margin-right': '15px'}  # Increase space between radio buttons
         ),
-    ]),
-    dcc.Row([
-        dcc.Col(
-            dcc.Dropdown(
-                id='company-symb',
-                options=[
-                    {'label': symbol, 'value': symbol} for symbol in data['Symbol'].unique() # creates a dropdown of the Symbol values using a dictionary
-                ],
-                value=[symbol for symbol in data['Symbol'].unique()[:3]],  # Select the first three symbols by default
-                multi=True,  # Enable multi-select
-                style={'color': 'black'}  # Set text color to black for readability
-            ),
-            width=5,  
-            align='center' # Center the dropdown above graph 1
-        )
-    ]),
-    dcc.Row([
-        dcc.Col(
-            dcc.Graph(id='bubble-plot') # defines graph 1 in the column
-        ),  
-        dcc.Col(
-            dcc.Graph(id='pe-ratio-graph') # defines graph 2 in the column
-        )  
-    ]),
+    ], style={'width': '50%', 'margin': 'auto', 'textAlign': 'center'}),  # Center the radio buttons
+    
+    html.Div([
+        dcc.Dropdown(
+            id='company-symb',
+            options=[
+                {'label': symbol, 'value': symbol} for symbol in data['Symbol'].unique() # creates a dropdown of the Symbol values using a dictionary
+            ],
+            value=[symbol for symbol in data['Symbol'].unique()[:3]],  # Select the first three symbols by default
+            multi=True,  # Enable multi-select
+            style={'color': 'black'}  # Set text color to black for readability
+        ),
+    ], style={'width': '50%', 'margin': 'auto', 'textAlign': 'center'}),  # Center the dropdown above graph 1
+    
+    html.Div([
+        dcc.Graph(id='bubble-plot'),  # defines graph 1 in the column
+        dcc.Graph(id='pe-ratio-graph')  # defines graph 2 in the column
+    ], style={'display': 'flex', 'justify-content': 'space-around', 'margin': 'auto', 'width': '90%'}),  # Display graphs side by side
+
 ])
 
 # Callback for graph 1 bubble plot with radio buttons and company symbol dropdown
