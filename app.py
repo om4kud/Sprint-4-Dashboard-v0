@@ -13,7 +13,7 @@ data = pd.read_csv('data.csv')
 # add Quartz background theme layout
 
 # Uses a stylesheet
-stylesheets = ['https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/quartz/bootstrap.min.css'] # load the CSS stylesheet
+stylesheets = ['https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.3/quartz/bootstrap.min.css'] # load the CSS stylesheet
 
 app = Dash(__name__, external_stylesheets=stylesheets) # initialize the app
 server = app.server
