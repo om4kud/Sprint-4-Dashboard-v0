@@ -9,14 +9,12 @@ from dash.dependencies import Input, Output
 # Read in the data
 data = pd.read_csv('data.csv')
 
-# add Quartz background theme layout
 app = Dash(__name__)
 server = app.server
 
 # Add QUARTZ using the url
-app.css.append_css({
-    "external_url": "https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/quartz/bootstrap.min.css"
-})
+# add Quartz background theme layout
+app = Dash(__name__, external_stylesheets=['https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/quartz/bootstrap.min.css'])
 
 # Make the layout
 app.layout = html.Div([
