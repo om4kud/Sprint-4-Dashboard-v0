@@ -1,0 +1,426 @@
+Symbol,Name,Price,Change,Market Cap,PE Ratio
+V,Visa Inc.,230.76,-0.25,483304000000.0,30.81
+JPM,JPMorgan Chase & Co.,133.89,-2.16,392325000000.0,9.9
+MA,Mastercard Incorporated,380.21,-3.18,359338000000.0,37.85
+JPM-PD,JPMorgan Chase & Co.,24.57,-0.08,326427000000.0,1.82
+JPM-PC,JPMorgan Chase & Co.,25.02,-0.09,328207000000.0,1.86
+BAC-PK,Bank of America Corporation,24.38,-0.04,244596000000.0,6.94
+BAC-PL,Bank of America Corporation,1144.76,0.79,0.0,325.77
+BML-PG,Bank of America Corporation,20.02,-0.03,270350000000.00003,5.7
+BML-PH,Bank of America Corporation,19.9,0.05,269812000000.0,5.66
+BAC,Bank of America Corporation,27.06,-0.33,215526000000.0,8.1
+BML-PL,Bank of America Corporation,20.2,0.05,248946000000.0,5.75
+BAC-PE,Bank of America Corporation,20.15,0.12,239340000000.0,5.73
+BML-PJ,Bank of America Corporation,20.76,-0.01,240083000000.0,5.91
+BAC-PB,Bank of America Corporation,24.53,-0.04,245183000000.0,6.98
+WFC-PQ,Wells Fargo & Company,25.01,1.45,201039000000.0,5.18
+WFC-PR,Wells Fargo & Company,25.24,0.51,186022000000.0,5.22
+WFC-PY,Wells Fargo & Company,22.36,0.01,182577000000.0,4.63
+WFC-PL,Wells Fargo & Company,1139.77,1.77,178136000000.0,235.88
+C-PJ,Citigroup Inc.,25.29,0.09,143582000000.0,2.97
+HSBC,HSBC Holdings plc,37.47,0.02,151092000000.0,6.79
+MS,Morgan Stanley,82.28,-0.35,139170000000.0,14.3
+WFC,Wells Fargo & Company,37.35,-0.97,141079000000.0,10.86
+RY,Royal Bank of Canada,95.68,-0.54,133217000000.00002,12.2
+HDB,HDFC Bank Limited,67.78,0.65,126149000000.0,26.17
+V,Visa Inc.,230.82,-0.18,483440000000.0,30.82
+JPM,JPMorgan Chase & Co.,133.91,-2.14,392560000000.0,9.9
+MA,Mastercard Incorporated,380.21,-3.18,359499000000.0,37.87
+JPM-PC,JPMorgan Chase & Co.,25.01,-0.1,328076000000.0,1.86
+BAC,Bank of America Corporation,27.06,-0.33,215605000000.0,8.1
+WFC-PY,Wells Fargo & Company,22.39,0.04,182822000000.0,4.63
+MS,Morgan Stanley,82.3,-0.33,139221000000.0,14.31
+WFC,Wells Fargo & Company,37.37,-0.97,141116000000.0,10.86
+WFC-PC,Wells Fargo & Company,17.25,0.09,123026000000.0,3.57
+JPM,JPMorgan Chase & Co.,133.9,-2.15,392530000000.0,9.9
+BAC,Bank of America Corporation,27.06,-0.33,215644000000.0,8.1
+MS,Morgan Stanley,82.28,-0.35,139229000000.0,14.31
+WFC,Wells Fargo & Company,37.35,-0.98,141154000000.0,10.86
+RY,Royal Bank of Canada,95.84,-0.38,133442000000.0,12.22
+HDB,HDFC Bank Limited,67.79,0.66,126149000000.0,26.17
+GS,"The Goldman Sachs Group, Inc.",318.98,-1.74,106714000000.0,11.43
+MA,Mastercard Incorporated,380.36,-3.03,359463000000.0,37.87
+JPM-PD,JPMorgan Chase & Co.,24.59,-0.06,326693000000.0,1.82
+BAC,Bank of America Corporation,27.08,-0.31,215609000000.0,8.1
+HSBC,HSBC Holdings plc,37.5,0.05,151092000000.0,6.79
+WFC,Wells Fargo & Company,37.4,-0.93,141116000000.0,10.86
+HDB,HDFC Bank Limited,67.8,0.67,126158000000.0,26.17
+GS,"The Goldman Sachs Group, Inc.",318.99,-1.73,106774000000.0,11.43
+SPGI,S&P Global Inc.,358.29,-2.0,114939000000.0,43.75
+BAC,Bank of America Corporation,27.08,-0.31,215799000000.0,8.11
+HSBC,HSBC Holdings plc,37.51,0.06,151193000000.0,6.79
+MS,Morgan Stanley,82.32,-0.31,139263000000.0,14.31
+WFC,Wells Fargo & Company,37.42,-0.91,141286000000.0,10.87
+RY,Royal Bank of Canada,95.87,-0.35,133442000000.0,12.22
+HDB,HDFC Bank Limited,67.8,0.67,126186000000.0,26.18
+GS,"The Goldman Sachs Group, Inc.",319.12,-1.6,106777000000.0,11.43
+SPGI,S&P Global Inc.,358.21,-2.08,114939000000.0,43.75
+C,Citigroup Inc.,45.4,-0.63,88976000000.0,6.28
+JPM-PC,JPMorgan Chase & Co.,25.0,-0.11,327945000000.0,1.85
+BAC,Bank of America Corporation,27.08,-0.31,215844000000.0,8.11
+HSBC,HSBC Holdings plc,37.51,0.06,151233000000.0,6.8
+MS,Morgan Stanley,82.31,-0.32,139289000000.0,14.32
+WFC,Wells Fargo & Company,37.42,-0.91,141362000000.0,10.88
+RY,Royal Bank of Canada,95.87,-0.35,133484000000.00002,12.23
+GS,"The Goldman Sachs Group, Inc.",319.12,-1.6,106821000000.0,11.44
+SPGI,S&P Global Inc.,358.12,-2.17,114923000000.0,43.74
+C,Citigroup Inc.,45.4,-0.63,89006000000.0,6.28
+AXP,American Express Company,147.97,-0.02,110512000000.0,15.63
+BAC,Bank of America Corporation,27.08,-0.31,215779000000.0,8.11
+WFC-PR,Wells Fargo & Company,25.24,0.51,186047000000.0,5.22
+MS,Morgan Stanley,82.3,-0.33,139280000000.0,14.31
+WFC,Wells Fargo & Company,37.42,-0.92,141362000000.0,10.88
+SPGI,S&P Global Inc.,358.12,-2.17,114885000000.0,43.73
+C,Citigroup Inc.,45.4,-0.63,89025000000.0,6.28
+AXP,American Express Company,147.97,-0.02,110490000000.0,15.63
+TD,The Toronto-Dominion Bank,60.62,-0.27,111861000000.0,9.89
+BAC,Bank of America Corporation,27.08,-0.31,215758000000.0,8.11
+WFC-PY,Wells Fargo & Company,22.38,0.03,182822000000.0,4.63
+MS,Morgan Stanley,82.3,-0.33,139263000000.0,14.31
+WFC,Wells Fargo & Company,37.4,-0.93,141343000000.0,10.88
+WFC-PC,Wells Fargo & Company,17.19,0.03,123026000000.0,3.57
+GS,"The Goldman Sachs Group, Inc.",319.03,-1.69,106821000000.0,11.44
+SPGI,S&P Global Inc.,358.03,-2.26,114856000000.0,43.72
+C,Citigroup Inc.,45.38,-0.65,89016000000.0,6.28
+AXP,American Express Company,147.88,-0.12,110445000000.0,15.62
+BX,Blackstone Inc.,83.01,-0.26,98916000000.0,101.24
+BAC,Bank of America Corporation,27.07,-0.32,215725000000.0,8.1
+BAC-PB,Bank of America Corporation,24.54,-0.03,245281000000.0,6.98
+MS,Morgan Stanley,82.27,-0.36,139229000000.0,14.31
+WFC,Wells Fargo & Company,37.4,-0.93,141305000000.0,10.87
+WFC-PC,Wells Fargo & Company,17.19,0.03,122598000000.0,3.56
+GS,"The Goldman Sachs Group, Inc.",319.03,-1.69,106791000000.0,11.43
+C,Citigroup Inc.,45.38,-0.65,88996000000.0,6.28
+AXP,American Express Company,147.88,-0.12,110419000000.0,15.62
+BX,Blackstone Inc.,82.98,-0.3,98910000000.0,101.24
+BLK,"BlackRock, Inc.",650.51,8.49,98457000000.0,20.36
+BAC,Bank of America Corporation,27.06,-0.33,215679000000.0,8.1
+MS,Morgan Stanley,82.3,-0.33,139212000000.0,14.31
+WFC-PC,Wells Fargo & Company,17.23,0.07,122883000000.0,3.57
+GS,"The Goldman Sachs Group, Inc.",319.05,-1.67,106741000000.0,11.43
+C,Citigroup Inc.,45.4,-0.63,88986000000.0,6.28
+BX,Blackstone Inc.,83.0,-0.28,98868000000.0,101.2
+BLK,"BlackRock, Inc.",650.99,8.97,98412000000.0,20.35
+RY-PT,Royal Bank of Canada,25.44,0.02,94477000000.0,2.89
+BAC,Bank of America Corporation,27.08,-0.31,215765000000.0,8.11
+WFC-PQ,Wells Fargo & Company,25.0,1.44,201039000000.0,5.18
+HSBC,HSBC Holdings plc,37.51,0.06,151213000000.0,6.79
+MS,Morgan Stanley,82.28,-0.35,139263000000.0,14.31
+WFC,Wells Fargo & Company,37.42,-0.92,141305000000.0,10.87
+RY,Royal Bank of Canada,95.81,-0.41,133470000000.0,12.23
+GS,"The Goldman Sachs Group, Inc.",319.05,-1.67,106798000000.0,11.44
+C,Citigroup Inc.,45.4,-0.63,89035000000.0,6.28
+TD,The Toronto-Dominion Bank,60.65,-0.24,111861000000.0,9.89
+BX,Blackstone Inc.,83.0,-0.28,98892000000.0,101.22
+BLK,"BlackRock, Inc.",650.99,8.97,98484000000.0,20.37
+SCHW,The Charles Schwab Corporation,49.05,1.32,88940000000.0,13.33
+WFC-PQ,Wells Fargo & Company,25.01,1.45,201015000000.0,5.18
+MS,Morgan Stanley,82.27,-0.36,139212000000.0,14.31
+WFC,Wells Fargo & Company,37.42,-0.92,141343000000.0,10.88
+RY,Royal Bank of Canada,95.81,-0.41,133401999999.99998,12.22
+HDB,HDFC Bank Limited,67.82,0.69,126223000000.0,26.19
+C,Citigroup Inc.,45.39,-0.64,89025000000.0,6.28
+TD,The Toronto-Dominion Bank,60.65,-0.24,111919000000.0,9.89
+BX,Blackstone Inc.,83.0,-0.28,98886000000.0,101.21
+SCHW,The Charles Schwab Corporation,49.05,1.32,88936000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.37,0.0,89234000000.0,28.18
+MS,Morgan Stanley,82.26,-0.37,139212000000.0,14.31
+WFC,Wells Fargo & Company,37.41,-0.92,141343000000.0,10.88
+HDB,HDFC Bank Limited,67.81,0.68,126223000000.0,26.19
+SPGI,S&P Global Inc.,357.81,-2.48,114856000000.0,43.72
+TD,The Toronto-Dominion Bank,60.64,-0.25,111900000000.0,9.89
+BX,Blackstone Inc.,82.94,-0.34,98856000000.0,101.18
+SCHW,The Charles Schwab Corporation,49.06,1.33,88932000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.32,-0.05,89234000000.0,28.18
+GS-PJ,"The Goldman Sachs Group, Inc.",24.97,-0.01,68303000000.0,0.48
+MS,Morgan Stanley,82.28,-0.35,139204000000.0,14.31
+WFC,Wells Fargo & Company,37.4,-0.93,141324000000.0,10.88
+HDB,HDFC Bank Limited,67.81,0.68,126205000000.0,26.18
+SPGI,S&P Global Inc.,357.76,-2.54,114785000000.0,43.69
+AXP,American Express Company,147.79,-0.2,110356000000.0,15.61
+TD,The Toronto-Dominion Bank,60.65,-0.24,111900000000.0,9.89
+BX,Blackstone Inc.,82.94,-0.34,98821000000.0,101.15
+SCHW,The Charles Schwab Corporation,49.06,1.33,88945000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.32,-0.05,89208000000.0,28.18
+CB,Chubb Limited,199.6,-1.79,82668000000.0,15.85
+HSBC,HSBC Holdings plc,37.5,0.05,151233000000.0,6.8
+MS,Morgan Stanley,82.29,-0.34,139246000000.0,14.31
+SPGI,S&P Global Inc.,357.76,-2.54,114768000000.0,43.68
+MS-PI,Morgan Stanley,24.85,-0.03,66271000000.0,3.16
+WFC-PQ,Wells Fargo & Company,25.0,1.44,200937000000.0,5.17
+HSBC,HSBC Holdings plc,37.5,0.05,151193000000.0,6.79
+MS,Morgan Stanley,82.29,-0.34,139238000000.0,14.31
+C,Citigroup Inc.,45.39,-0.64,89055000000.0,6.28
+TD,The Toronto-Dominion Bank,60.66,-0.23,111937000000.0,9.9
+BX,Blackstone Inc.,82.97,-0.31,98850000000.0,101.18
+SCHW,The Charles Schwab Corporation,49.07,1.34,88990000000.0,13.34
+GS-PK,"The Goldman Sachs Group, Inc.",24.46,0.07,63275000000.0,0.47
+WFC-PR,Wells Fargo & Company,25.24,0.51,186010000000.0,5.22
+C-PJ,Citigroup Inc.,25.33,0.13,143782000000.0,2.98
+MS,Morgan Stanley,82.29,-0.35,139246000000.0,14.31
+HDB,HDFC Bank Limited,67.78,0.65,126147000000.0,26.17
+C,Citigroup Inc.,45.39,-0.64,89020000000.0,6.28
+AXP,American Express Company,147.86,-0.13,110356000000.0,15.61
+BLK,"BlackRock, Inc.",650.79,8.77,98472000000.0,20.37
+SCHW,The Charles Schwab Corporation,49.06,1.33,88972000000.0,13.33
+IBN,ICICI Bank Limited,22.92,-0.03,80086000000.0,19.59
+WFC,Wells Fargo & Company,37.42,-0.91,141381000000.0,10.88
+C,Citigroup Inc.,45.4,-0.63,89020000000.0,6.28
+AXP,American Express Company,147.86,-0.13,110408000000.0,15.61
+BLK,"BlackRock, Inc.",650.93,8.91,98454000000.0,20.36
+SCHW,The Charles Schwab Corporation,49.06,1.33,88958000000.0,13.33
+MS-PF,Morgan Stanley,25.07,-0.01,64830000000.0,3.19
+MS,Morgan Stanley,82.3,-0.33,139246000000.0,14.31
+WFC,Wells Fargo & Company,37.4,-0.93,141362000000.0,10.88
+HDB,HDFC Bank Limited,67.79,0.66,126167000000.0,26.17
+SPGI,S&P Global Inc.,357.91,-2.38,114830000000.0,43.71
+C,Citigroup Inc.,45.39,-0.64,88996000000.0,6.28
+AXP,American Express Company,147.8,-0.19,110378000000.0,15.61
+TD,The Toronto-Dominion Bank,60.67,-0.22,111953000000.0,9.9
+BLK,"BlackRock, Inc.",650.93,8.91,98475000000.0,20.37
+SCHW,The Charles Schwab Corporation,49.05,1.31,88954000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.35,-0.02,89208000000.0,28.18
+PGR,The Progressive Corporation,133.87,-0.07,79133000000.0,94.94
+SPGI,S&P Global Inc.,357.91,-2.38,114818000000.0,43.7
+C,Citigroup Inc.,45.38,-0.65,89006000000.0,6.28
+AXP,American Express Company,147.8,-0.19,110367000000.0,15.61
+SCHW,The Charles Schwab Corporation,49.03,1.3,88927000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.35,-0.02,89223000000.0,28.18
+MS-PK,Morgan Stanley,23.2,-0.08,63064000000.0,2.95
+WFC,Wells Fargo & Company,37.4,-0.93,141286000000.0,10.87
+C,Citigroup Inc.,45.39,-0.64,89006000000.0,6.28
+BLK,"BlackRock, Inc.",650.84,8.82,98475000000.0,20.37
+SCHW,The Charles Schwab Corporation,49.05,1.32,88900000000.0,13.32
+MS-PE,Morgan Stanley,25.09,-0.01,63647000000.0,3.19
+GS,"The Goldman Sachs Group, Inc.",319.0,-1.72,106781000000.0,11.43
+AXP,American Express Company,147.77,-0.22,110367000000.0,15.61
+BX,Blackstone Inc.,82.99,-0.29,98892000000.0,101.22
+BLK,"BlackRock, Inc.",650.84,8.82,98461000000.0,20.36
+SCHW,The Charles Schwab Corporation,49.06,1.33,88936000000.0,13.33
+CB,Chubb Limited,199.55,-1.84,82647000000.0,15.85
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",6.41,-0.01,78042000000.0,26.73
+GS,"The Goldman Sachs Group, Inc.",318.91,-1.81,106751000000.0,11.43
+AXP,American Express Company,147.77,-0.22,110341000000.0,15.6
+BX,Blackstone Inc.,82.99,-0.29,98880000000.0,101.21
+MMC,"Marsh & McLennan Companies, Inc.",180.41,0.04,89253000000.0,28.19
+GS-PK,"The Goldman Sachs Group, Inc.",24.49,0.1,63353000000.0,0.48
+IBN,ICICI Bank Limited,22.92,-0.03,80051000000.0,19.59
+PGR,The Progressive Corporation,133.89,-0.05,79145000000.0,94.96
+GS-PA,"The Goldman Sachs Group, Inc.",20.08,0.2,74004000000.0,0.39
+SCHW,The Charles Schwab Corporation,49.08,1.35,88970000000.0,13.33
+PGR,The Progressive Corporation,133.93,-0.01,79145000000.0,94.96
+GS-PD,"The Goldman Sachs Group, Inc.",20.67,0.21,73350000000.0,0.4
+GS,"The Goldman Sachs Group, Inc.",318.96,-1.76,106767000000.0,11.43
+AXP,American Express Company,147.8,-0.19,110341000000.0,15.6
+BX,Blackstone Inc.,83.0,-0.28,98898000000.0,101.23
+SCHW,The Charles Schwab Corporation,49.08,1.35,88999000000.0,13.34
+PGR,The Progressive Corporation,133.93,-0.01,79171000000.0,94.99
+PYPL,"PayPal Holdings, Inc.",62.08,-2.1,72440000000.0,35.28
+GS,"The Goldman Sachs Group, Inc.",318.9,-1.82,106747000000.0,11.43
+AXP,American Express Company,147.82,-0.17,110378000000.0,15.61
+SCHW,The Charles Schwab Corporation,49.07,1.34,88972000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.39,0.02,89253000000.0,28.19
+CB,Chubb Limited,199.49,-1.9,82623000000.0,15.85
+PYPL,"PayPal Holdings, Inc.",62.06,-2.12,72435000000.0,35.28
+USB-PH,U.S. Bancorp,17.51,-0.09,72085000000.0,3.78
+GS,"The Goldman Sachs Group, Inc.",318.8,-1.92,106714000000.0,11.43
+C,Citigroup Inc.,45.39,-0.64,89016000000.0,6.28
+BX,Blackstone Inc.,82.99,-0.29,98898000000.0,101.23
+BLK,"BlackRock, Inc.",650.63,8.61,98430000000.0,20.36
+SCHW,The Charles Schwab Corporation,49.06,1.33,88954000000.0,13.33
+MMC,"Marsh & McLennan Companies, Inc.",180.39,0.02,89243000000.0,28.19
+PGR,The Progressive Corporation,133.92,-0.02,79145000000.0,94.96
+PYPL,"PayPal Holdings, Inc.",62.08,-2.1,72411000000.0,35.26
+MS-PA,Morgan Stanley,20.44,0.22,71974000000.0,2.6
+C,Citigroup Inc.,45.39,-0.64,89013000000.0,6.28
+AXP,American Express Company,147.78,-0.21,110348000000.0,15.61
+TD,The Toronto-Dominion Bank,60.63,-0.26,111888000000.0,9.89
+BX,Blackstone Inc.,83.01,-0.27,98904000000.0,101.23
+CB,Chubb Limited,199.56,-1.83,82650000000.0,15.85
+MS-PF,Morgan Stanley,25.08,0.0,64830000000.0,3.19
+PGR,The Progressive Corporation,133.99,0.05,79162000000.0,94.98
+PYPL,"PayPal Holdings, Inc.",62.1,-2.08,72435000000.0,35.28
+USB-PP,U.S. Bancorp,22.29,0.07,69930000000.0,4.81
+C,Citigroup Inc.,45.4,-0.62,89045000000.0,6.28
+SCHW,The Charles Schwab Corporation,49.08,1.35,88990000000.0,13.34
+MS-PF,Morgan Stanley,25.08,0.0,64869000000.0,3.19
+PGR,The Progressive Corporation,134.04,0.1,79215000000.0,95.04
+PYPL,"PayPal Holdings, Inc.",62.06,-2.12,72440000000.0,35.28
+AON,Aon plc,335.5,0.28,68501000000.00001,26.75
+AXP,American Express Company,147.83,-0.16,110386000000.0,15.61
+TD,The Toronto-Dominion Bank,60.67,-0.22,111965000000.0,9.9
+BX,Blackstone Inc.,83.12,-0.16,99035000000.0,101.37
+BLK,"BlackRock, Inc.",650.5,8.48,98410000000.0,20.35
+SCHW,The Charles Schwab Corporation,49.14,1.41,89099000000.0,13.35
+MMC,"Marsh & McLennan Companies, Inc.",180.43,0.06,89263000000.0,28.19
+CB,Chubb Limited,199.62,-1.77,82674000000.0,15.86
+IBN,ICICI Bank Limited,22.93,-0.02,80103000000.0,19.6
+PGR,The Progressive Corporation,134.01,0.07,79215000000.0,95.04
+PYPL,"PayPal Holdings, Inc.",62.12,-2.06,72475000000.0,35.3
+AON,Aon plc,335.5,0.28,68525000000.00001,26.75
+CME,CME Group Inc.,184.55,1.07,67066000000.0,23.67
+SCHW,The Charles Schwab Corporation,49.15,1.42,89099000000.0,13.35
+CB,Chubb Limited,199.67,-1.72,82679000000.0,15.86
+IBN,ICICI Bank Limited,22.93,-0.02,80120000000.0,19.6
+PGR,The Progressive Corporation,134.12,0.18,79215000000.0,95.04
+PYPL,"PayPal Holdings, Inc.",62.13,-2.05,72475000000.0,35.3
+CME,CME Group Inc.,184.63,1.15,67047000000.0,23.66
+ICE,"Intercontinental Exchange, Inc.",108.39,0.18,60656000000.0,41.83
+BX,Blackstone Inc.,83.15,-0.13,99071000000.0,101.4
+BLK,"BlackRock, Inc.",650.71,8.69,98442000000.0,20.36
+SCHW,The Charles Schwab Corporation,49.16,1.43,89135000000.0,13.36
+CB,Chubb Limited,199.77,-1.62,82737000000.0,15.87
+PGR,The Progressive Corporation,134.05,0.11,79239000000.0,95.07
+PYPL,"PayPal Holdings, Inc.",62.13,-2.06,72487000000.0,35.3
+CME,CME Group Inc.,184.6,1.12,67066000000.0,23.67
+ICE,"Intercontinental Exchange, Inc.",108.39,0.18,60684000000.0,41.85
+BNS,The Bank of Nova Scotia,49.02,-0.32,58486000000.0,9.08
+BLK,"BlackRock, Inc.",650.39,8.37,98394000000.0,20.35
+SCHW,The Charles Schwab Corporation,49.14,1.41,89090000000.0,13.35
+MMC,"Marsh & McLennan Companies, Inc.",180.44,0.07,89267000000.0,28.19
+CB,Chubb Limited,199.63,-1.76,82737000000.0,15.87
+PGR,The Progressive Corporation,133.99,0.05,79239000000.0,95.07
+PYPL,"PayPal Holdings, Inc.",62.12,-2.06,72499000000.0,35.31
+AON,Aon plc,335.26,0.04,68525000000.00001,26.75
+CME,CME Group Inc.,184.49,1.01,67066000000.0,23.67
+ICE,"Intercontinental Exchange, Inc.",108.35,0.14,60681000000.0,41.85
+UBS,UBS Group AG,19.16,-0.03,59544000000.0,9.88
+SCHW,The Charles Schwab Corporation,49.12,1.39,89054000000.0,13.35
+MMC,"Marsh & McLennan Companies, Inc.",180.38,0.01,89238000000.0,28.18
+CB,Chubb Limited,199.63,-1.76,82679000000.0,15.86
+PGR,The Progressive Corporation,133.99,0.05,79204000000.0,95.03
+AON,Aon plc,335.26,0.04,68476000000.0,26.74
+CME,CME Group Inc.,184.49,1.01,67026000000.0,23.65
+ICE,"Intercontinental Exchange, Inc.",108.35,0.14,60659000000.0,41.83
+MCO,Moody's Corporation,308.94,-0.01,56997000000.0,41.47
+GS-PK,"The Goldman Sachs Group, Inc.",24.43,0.04,63353000000.0,0.48
+PGR,The Progressive Corporation,134.0,0.06,79210000000.0,95.04
+PYPL,"PayPal Holdings, Inc.",62.11,-2.07,72487000000.0,35.3
+CME,CME Group Inc.,184.47,0.99,67019000000.00001,23.65
+UBS,UBS Group AG,19.15,-0.04,59544000000.0,9.88
+MCO,Moody's Corporation,308.94,-0.01,56990000000.0,41.47
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.4,-0.01,56642000000.0,9.13
+GS-PK,"The Goldman Sachs Group, Inc.",24.43,0.04,63197000000.0,0.47
+PGR,The Progressive Corporation,133.98,0.04,79198000000.0,95.02
+PYPL,"PayPal Holdings, Inc.",62.08,-2.1,72470000000.0,35.29
+UBS,UBS Group AG,19.15,-0.04,59516000000.0,9.87
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.4,-0.01,56610000000.0,9.13
+BMO,Bank of Montreal,87.43,-0.08,61785000000.0,5.86
+GS-PJ,"The Goldman Sachs Group, Inc.",24.97,-0.01,68313999999.99999,0.48
+CB,Chubb Limited,199.61,-1.78,82670000000.0,15.85
+PGR,The Progressive Corporation,134.01,0.07,79192000000.0,95.01
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",6.41,-0.02,78034000000.0,26.73
+GS-PD,"The Goldman Sachs Group, Inc.",20.66,0.2,73315000000.0,0.4
+PYPL,"PayPal Holdings, Inc.",62.08,-2.1,72429000000.0,35.27
+CME,CME Group Inc.,184.53,1.05,67041000000.0,23.66
+MCO,Moody's Corporation,308.95,-0.01,56990000000.0,41.47
+CB,Chubb Limited,199.66,-1.73,82670000000.0,15.85
+MS-PI,Morgan Stanley,24.86,-0.02,66298000000.0,3.16
+PGR,The Progressive Corporation,134.01,0.07,79216000000.0,95.04
+MS-PK,Morgan Stanley,23.24,-0.04,63166000000.0,2.96
+PYPL,"PayPal Holdings, Inc.",62.11,-2.07,72417000000.0,35.27
+CME,CME Group Inc.,184.61,1.13,67052000000.00001,23.66
+ICE,"Intercontinental Exchange, Inc.",108.36,0.15,60659000000.0,41.83
+UBS,UBS Group AG,19.15,-0.04,59524000000.0,9.87
+MCO,Moody's Corporation,309.04,0.09,56990000000.0,41.47
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.4,-0.01,56608000000.0,9.12
+ITUB,Itaú Unibanco Holding S.A.,5.41,-0.04,53016000000.0,9.02
+PGR,The Progressive Corporation,134.09,0.15,79233000000.0,95.06
+CME,CME Group Inc.,184.57,1.1,67072999999.99999,23.67
+ICE,"Intercontinental Exchange, Inc.",108.36,0.15,60667000000.0,41.84
+MCO,Moody's Corporation,309.04,0.09,57008000000.0,41.48
+SCHW-PD,The Charles Schwab Corporation,24.93,0.17,50392000000.0,9.0
+PGR,The Progressive Corporation,134.07,0.13,79251000000.0,95.09
+PYPL,"PayPal Holdings, Inc.",62.12,-2.06,72464000000.0,35.29
+CME,CME Group Inc.,184.57,1.1,67057000000.0,23.66
+BN,Brookfield Corporation,30.33,-0.87,49597000000.0,25.49
+GS-PD,"The Goldman Sachs Group, Inc.",20.6,0.14,73102000000.0,0.4
+PYPL,"PayPal Holdings, Inc.",62.12,-2.06,72470000000.0,35.29
+MS-PA,Morgan Stanley,20.43,0.21,71940000000.0,2.6
+AON,Aon plc,335.37,0.15,68476000000.0,26.74
+MCO,Moody's Corporation,309.0,0.05,57008000000.0,41.48
+BN,Brookfield Corporation,30.32,-0.88,49581000000.0,25.48
+ING,ING Groep N.V.,12.67,0.01,45797000000.0,11.01
+PGR,The Progressive Corporation,134.04,0.1,79233000000.0,95.06
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",6.42,-0.01,78103000000.0,26.75
+GS-PD,"The Goldman Sachs Group, Inc.",20.61,0.15,73137000000.0,0.4
+PYPL,"PayPal Holdings, Inc.",62.1,-2.08,72452000000.0,35.28
+AON,Aon plc,335.37,0.15,68498000000.00001,26.74
+MCO,Moody's Corporation,309.0,0.05,57001000000.0,41.48
+ITUB,Itaú Unibanco Holding S.A.,5.42,-0.03,53016000000.0,9.02
+BN,Brookfield Corporation,30.32,-0.89,49573000000.0,25.48
+ING,ING Groep N.V.,12.67,0.01,45815000000.0,11.02
+AJG,Arthur J. Gallagher & Co.,217.17,0.36,46528000000.0,40.14
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",6.41,-0.02,77987000000.0,26.71
+AON,Aon plc,335.36,0.14,68498000000.00001,26.74
+CME,CME Group Inc.,184.52,1.04,67037000000.00001,23.66
+ICE,"Intercontinental Exchange, Inc.",108.3,0.09,60634000000.0,41.81
+BNS,The Bank of Nova Scotia,48.99,-0.35,58486000000.0,9.08
+UBS,UBS Group AG,19.16,-0.03,59524000000.0,9.87
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.4,-0.01,56617000000.0,9.13
+BMO,Bank of Montreal,87.41,-0.1,61785000000.0,5.86
+ITUB,Itaú Unibanco Holding S.A.,5.42,-0.03,53106000000.0,9.03
+BN,Brookfield Corporation,30.3,-0.9,49565000000.0,25.47
+ING,ING Groep N.V.,12.66,0.01,45815000000.0,11.02
+BSBR,Banco Santander (Brasil) S.A.,6.1,0.08,45383000000.0,16.47
+PYPL,"PayPal Holdings, Inc.",62.02,-2.16,72400000000.0,35.26
+AON,Aon plc,335.36,0.14,68495999999.99999,26.74
+CME,CME Group Inc.,184.46,0.98,67015000000.0,23.65
+ICE,"Intercontinental Exchange, Inc.",108.25,0.04,60628000000.0,41.81
+BNS,The Bank of Nova Scotia,48.98,-0.36,58438000000.0,9.07
+UBS,UBS Group AG,19.16,-0.03,59529000000.0,9.87
+BMO,Bank of Montreal,87.41,-0.1,61771000000.0,5.86
+BN,Brookfield Corporation,30.3,-0.9,49540000000.0,25.46
+ING,ING Groep N.V.,12.66,0.01,45797000000.0,11.01
+BSBR,Banco Santander (Brasil) S.A.,6.1,0.08,45420000000.0,16.49
+USB,U.S. Bancorp,29.08,0.16,45410000000.0,7.93
+PYPL,"PayPal Holdings, Inc.",61.97,-2.21,72300000000.0,35.21
+ICE,"Intercontinental Exchange, Inc.",108.25,0.04,60606000000.0,41.8
+AJG,Arthur J. Gallagher & Co.,217.05,0.24,46528000000.0,40.14
+USB,U.S. Bancorp,29.11,0.19,45394000000.0,7.92
+PNC,"The PNC Financial Services Group, Inc.",111.09,-1.61,45509000000.0,7.69
+PYPL,"PayPal Holdings, Inc.",61.97,-2.22,72295000000.0,35.21
+CME,CME Group Inc.,184.44,0.96,67007999999.99999,23.65
+BN,Brookfield Corporation,30.3,-0.91,49532000000.0,25.46
+AJG,Arthur J. Gallagher & Co.,217.05,0.24,46502000000.0,40.12
+USB,U.S. Bancorp,29.12,0.2,45449000000.0,7.93
+PNC,"The PNC Financial Services Group, Inc.",111.09,-1.61,45517000000.0,7.69
+AIG-PA,"American International Group, Inc.",24.59,0.02,44115000000.0,2.15
+CME,CME Group Inc.,184.41,0.93,66998999999.99999,23.64
+ICE,"Intercontinental Exchange, Inc.",108.32,0.11,60645000000.0,41.82
+MCO,Moody's Corporation,308.97,0.02,57001000000.0,41.48
+BN,Brookfield Corporation,30.27,-0.93,49524000000.0,25.45
+AJG,Arthur J. Gallagher & Co.,216.99,0.18,46502000000.0,40.12
+USB,U.S. Bancorp,29.13,0.21,45472000000.0,7.94
+PNC,"The PNC Financial Services Group, Inc.",111.1,-1.6,45517000000.0,7.69
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",7.16,0.05,43009000000.0,5.97
+PYPL,"PayPal Holdings, Inc.",61.96,-2.22,72289000000.0,35.2
+CME,CME Group Inc.,184.43,0.96,67006000000.0,23.65
+MCO,Moody's Corporation,308.97,0.02,56995000000.0,41.47
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.39,-0.02,56617000000.0,9.13
+ITUB,Itaú Unibanco Holding S.A.,5.41,-0.03,53065000000.0,9.02
+BN,Brookfield Corporation,30.27,-0.93,49499000000.0,25.44
+AJG,Arthur J. Gallagher & Co.,216.99,0.18,46489000000.0,40.11
+USB,U.S. Bancorp,29.13,0.21,45480000000.0,7.94
+PNC,"The PNC Financial Services Group, Inc.",111.14,-1.56,45542000000.0,7.7
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",7.16,0.04,43009000000.0,5.97
+MET-PA,"MetLife, Inc.",21.98,0.22,42691000000.0,2.82
+PYPL,"PayPal Holdings, Inc.",61.96,-2.22,72283000000.0,35.2
+CME,CME Group Inc.,184.38,0.9,66986000000.00001,23.64
+ICE,"Intercontinental Exchange, Inc.",108.28,0.07,60622000000.0,41.81
+UBS,UBS Group AG,19.15,-0.04,59515000000.0,9.87
+MCO,Moody's Corporation,309.11,0.16,56995000000.0,41.47
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.39,-0.02,56590000000.0,9.12
+BN,Brookfield Corporation,30.27,-0.93,49491000000.0,25.44
+PNC,"The PNC Financial Services Group, Inc.",111.14,-1.56,45538000000.0,7.7
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",7.16,0.04,42980000000.0,5.97
+MET-PE,"MetLife, Inc.",23.79,0.04,42184000000.0,3.05
+ICE,"Intercontinental Exchange, Inc.",108.31,0.1,60622000000.0,41.81
+MCO,Moody's Corporation,309.11,0.16,57021000000.0,41.49
+SMFG,"Sumitomo Mitsui Financial Group, Inc.",8.4,-0.01,56590000000.0,9.12
+BMO,Bank of Montreal,87.42,-0.09,61771000000.0,5.86
+BN,Brookfield Corporation,30.25,-0.95,49475000000.0,25.43
+USB,U.S. Bancorp,29.16,0.24,45496000000.0,7.94
+PNC,"The PNC Financial Services Group, Inc.",111.18,-1.52,45538000000.0,7.7
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",7.16,0.04,42985000000.0,5.97
+TRV,"The Travelers Companies, Inc.",181.84,-0.97,42240000000.0,15.5
