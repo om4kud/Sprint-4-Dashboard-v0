@@ -1,10 +1,10 @@
 # Omisha Mondal om4kud
 # import libraries
-from dash import Dash, html, dcc 
+from dash import Dash, html, dcc, dbc 
 import pandas as pd
 import plotly.express as px
 from dash.dependencies import Input, Output
-import dash_bootstrap_components as dbc
+#import dash_bootstrap_components as dbc
 
 # Read in the data
 data = pd.read_csv('data.csv')
