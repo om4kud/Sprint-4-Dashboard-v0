@@ -19,10 +19,10 @@ app.css.append_css({
 })
 
 # Make the layout
-app.layout = dbc.Container([
+app.layout = dcc.Container([
     html.H1("Day Trader Graphs", style={'textAlign': 'center', 'marginBottom': '20px'}),  # Title for entire page
-    dbc.Row([
-        dbc.Col(
+    dcc.Row([
+        dcc.Col(
             dcc.RadioItems(
                 id='radio-group-1',  # Radio buttons for Price and Change
                 options=[
@@ -36,8 +36,8 @@ app.layout = dbc.Container([
             align='center'
         ),
     ]),
-    dbc.Row([
-        dbc.Col(
+    dcc.Row([
+        dcc.Col(
             dcc.Dropdown(
                 id='company-symb',
                 options=[
@@ -51,11 +51,11 @@ app.layout = dbc.Container([
             align='center' # Center the dropdown above graph 1
         )
     ]),
-    dbc.Row([
-        dbc.Col(
+    dcc.Row([
+        dcc.Col(
             dcc.Graph(id='bubble-plot') # defines graph 1 in the column
         ),  
-        dbc.Col(
+        dcc.Col(
             dcc.Graph(id='pe-ratio-graph') # defines graph 2 in the column
         )  
     ]),
